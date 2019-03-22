@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Base.TextAppearance.Headline4" parent="TextAppearance.MaterialComponents.Headline4">
+        <!-- TODO: Customise -->
+    </style>
+
+    <style name="Base.TextAppearance.Headline5" parent="TextAppearance.MaterialComponents.Headline5">
+        <!-- TODO: Customise -->
+    </style>
+
+    <style name="Base.TextAppearance.Headline6" parent="TextAppearance.MaterialComponents.Headline6">
+        <!-- TODO: Customise -->
+    </style>
+
+    <style name="Base.TextAppearance.Subtitle1" parent="TextAppearance.MaterialComponents.Subtitle1">
+        <!-- TODO: Customise -->
+    </style>
+
+    <style name="Base.TextAppearance.Body1" parent="TextAppearance.MaterialComponents.Body1">
+        <!-- TODO: Customise -->
+    </style>
+
+    <style name="Base.TextAppearance.Body2" parent="TextAppearance.MaterialComponents.Body2">
+        <!-- TODO: Customise -->
+    </style>
+
+    <style name="Base.TextAppearance.Caption1" parent="TextAppearance.MaterialComponents.Caption">
+        <!-- TODO: Customise -->
+    </style>
+
+    <style name="Base.TextAppearance.Caption2" parent="TextAppearance.MaterialComponents.Caption">
+        <!-- TODO: Customise -->
+    </style>
+</resources>
